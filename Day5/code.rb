@@ -10,7 +10,6 @@ def isNice(s)
     end
 
     # has at least 2 vowels
-    table["a"] + table["e"] + table["i"] + table["o"] + table["u"]
     return false if ["a", "e", "i", "o", "u"].inject(0) {|sum, v| sum + table[v] } < 3
     
     # no double consecutive chars
