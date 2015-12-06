@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Node
     attr_reader :x, :y
     def initialize(x,y)

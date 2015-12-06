@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 def solve(input)
 	floor = 0

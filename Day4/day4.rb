@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'digest/md5'
 
 def solve(secret)

@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 class Box
     def initialize(length, width, height)

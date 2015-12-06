@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 def isNice(s)
     # doesn't contains any of these strings
